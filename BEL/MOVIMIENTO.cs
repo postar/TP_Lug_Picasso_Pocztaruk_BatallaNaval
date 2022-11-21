@@ -7,5 +7,6 @@ namespace BEL
 {
     public class MOVIMIENTO
     {
+        
     }
 }
