@@ -39,5 +39,10 @@ namespace BEL
 			get { return descCorta; }
 			set { descCorta = value; }
 		}
+
+		public BARCO()
+		{
+
+		}
 	}
 }

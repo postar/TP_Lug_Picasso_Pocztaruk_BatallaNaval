@@ -30,22 +30,6 @@ namespace BEL
             get { return jugador2; }
             set { jugador2 = value; }
         }
-
-		private List<BARCO> barcos1;
-
-		public List<BARCO> Barcos1
-		{
-			get { return barcos1; }
-			set { barcos1 = value; }
-		}
-
-        private List<BARCO> barcos2;
-
-        public List<BARCO> Barcos2
-        {
-            get { return barcos2; }
-            set { barcos2 = value; }
-        }
         
         private bool enCurso;
 
@@ -78,5 +62,21 @@ namespace BEL
 			get { return ganador; }
 			set { ganador = value; }
 		}
+
+		private TABLERO tablero1;
+
+		public TABLERO Tablero1
+		{
+			get { return tablero1; }
+			set { tablero1 = value; }
+		}
+
+        private TABLERO tablero2;
+
+        public TABLERO Tablero2
+        {
+            get { return tablero2; }
+            set { tablero2 = value; }
+        }
     }
 }
