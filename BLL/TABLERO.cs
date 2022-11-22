@@ -10,9 +10,9 @@ namespace BLL
     {
         private BEL.TABLERO tablero = new BEL.TABLERO();
 
-        public void Iniciar()
+        public void Generar()
         {
-            
+                        
         }
     }
 }

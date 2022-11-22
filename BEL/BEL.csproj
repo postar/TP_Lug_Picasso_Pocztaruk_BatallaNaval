@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="BARCO.cs" />
     <Compile Include="JUGADOR.cs" />
-    <Compile Include="MOVIMIENTO.cs" />
     <Compile Include="PARTIDA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TABLERO.cs" />

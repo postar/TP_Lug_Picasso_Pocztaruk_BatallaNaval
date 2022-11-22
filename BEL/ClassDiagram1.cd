@@ -3,7 +3,7 @@
   <Class Name="BEL.BARCO" Collapsed="true">
     <Position X="4.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAACAAAAAAAAAAAAIAEAACABACAAAAAgAAAAAAAAAgA=</HashCode>
       <FileName>BARCO.cs</FileName>
       <NewMemberFileName>Barco.cs</NewMemberFileName>
     </TypeIdentifier>
@@ -11,7 +11,7 @@
   <Class Name="BEL.JUGADOR" Collapsed="true">
     <Position X="6.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAACAAAAAAAAAACAAAAAgAAAAAAAAAAgAAAAIAAAAgA=</HashCode>
       <FileName>JUGADOR.cs</FileName>
       <NewMemberFileName>Jugador.cs</NewMemberFileName>
     </TypeIdentifier>
@@ -19,7 +19,7 @@
   <Class Name="BEL.PARTIDA" Collapsed="true">
     <Position X="4.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAgCAAAAAAAAAIIEAACCBAQAAgAEAAIAACACAAAoAgA=</HashCode>
       <FileName>PARTIDA.cs</FileName>
       <NewMemberFileName>Partida.cs</NewMemberFileName>
     </TypeIdentifier>
@@ -30,14 +30,6 @@
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>USUARIO.cs</FileName>
       <NewMemberFileName>Usuario.cs</NewMemberFileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BEL.MOVIMIENTO" Collapsed="true">
-    <Position X="9.25" Y="0.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>MOVIMIENTO.cs</FileName>
-      <NewMemberFileName>Movimiento.cs</NewMemberFileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BEL.TURNO" Collapsed="true">
@@ -51,7 +43,7 @@
   <Class Name="BEL.TABLERO" Collapsed="true">
     <Position X="11.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAgAAgAIAAAAAAAAAAA=</HashCode>
       <FileName>TABLERO.cs</FileName>
       <NewMemberFileName>Tablero.cs</NewMemberFileName>
     </TypeIdentifier>
