@@ -43,6 +43,10 @@
   <ItemGroup>
     <Compile Include="ACCESOBD.cs" />
     <Compile Include="MAPPER.cs" />
+    <Compile Include="MP_BARCO.cs" />
+    <Compile Include="MP_JUGADOR.cs" />
+    <Compile Include="MP_PARTIDA.cs" />
+    <Compile Include="MP_TABLERO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -50,6 +54,9 @@
       <Project>{68d9944b-dc1c-4a62-b220-b9d34b750d1f}</Project>
       <Name>BEL</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
